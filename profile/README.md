@@ -10,9 +10,11 @@ We are an all volunteer organization working on this project in the hours betwee
 * Susama Agarwala is currently a data scientist who dislikes working with people who _just care sooo much_. Since she is not brave enough (read too financially conservative) to start her own buisiness, she donates code to people whose bravery she admires. In her spare time, she trains her dog, publishes mathematical physics papers and worries about how to raise her son to be proud of his heritage in the country he is inheriting.
 
 ### What we do
+
 Write code and run analysis for civil liberties advocacy organizations to help make the US voting system a little bit more fair. 
 
 **What we do NOT do**
+
 We are not a group of technitions who think we know how to fix the system.
 * The advocacy groups have been in the field for decade and have crucial degrees in law and the social sciences.
   * They set the vision
