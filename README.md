@@ -13,7 +13,9 @@ We are an all volunteer organization working on this project in the hours betwee
 Write code and run analysis for civil liberties advocacy organizations to help make the US voting system a little bit more fair. 
 
 **What we do NOT do**
-* We are not a group of technitions who think we know how to fix the system.
+
+We are not a group of technitions who think we know how to fix the system.
+
 * The advocacy groups have been in the field for decade and have crucial degrees in law and the social sciences.
   * They set the vision
   * We are proud to be able to support them.
