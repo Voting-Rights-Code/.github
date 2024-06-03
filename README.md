@@ -22,7 +22,7 @@ We are not a group of technitions who think we know how to fix the system.
 
 ### Who we work with
 Current partners:
-1. [Fair Fight Action](https://fairfight.com
+1. [Fair Fight Action](https://fairfight.com)
 1. [Campaign Legal Center](https://campaignlegal.org/)
 1. [Virginia Civic Engagement Table](https://engageva.org/)
 1. Madison, Wi
