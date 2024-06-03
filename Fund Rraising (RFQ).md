@@ -35,7 +35,7 @@ We cannot sustain our contributions to the field a small group of volunteers any
 Negotiable percentage of funds brought in. 
 As this position is to find seed funding for the the group, we are unable to give a budget for billable hours. However, we are open to budgeting for a successful fundraiser moving forward. 
 
-## Submissio Process:
-Interseted parties are invited to submit proposals by email to susama@alum.mit.edu. Submissions should contain a resume and a cover letter. A list of past successful fundraising activities should be clearly indicated in one or the other. Quotes will be considered on a rolling basis.
+## Submission Process:
+Interested parties are invited to submit proposals by email to susama@alum.mit.edu. Submissions should contain a resume and a cover letter. A list of past successful fundraising activities should be clearly indicated in one or the other. Quotes will be considered on a rolling basis.
 
 Thank you for your interest in helping Voting Rights Code grow from a group of volunteers into a fully fledged organization that can meet the apparent demand for our services.  
