@@ -27,6 +27,18 @@ Current partners:
 1. [Virginia Civic Engagement Table](https://engageva.org/)
 1. Madison, Wi
 
+## We're Hiring!!!
+This last year, we've seen more demand for our tool than we could ever have imagined. 
+
+Which is BRILLIANT!
+
+But we need more hands.
+
+Check out our [RFQ](https://github.com/Voting-Rights-Code/.github/blob/main/Fund%20Rraising%20(RFQ).md) for a fundraiser. 
+
+Not a fundraiser? Come back soon for RFQs for other projects that need doing.
+
 ### Want to learn more?
 Visit our main repo to see our [equitable poll placement tool](https://github.com/Voting-Rights-Code/Equitable-Polling-Locations). Make a pull request. Make some comment. 
 If you want to get involved, create an issue or reach out to Amasus
+
