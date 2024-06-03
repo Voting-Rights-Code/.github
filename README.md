@@ -21,8 +21,11 @@ We are not a group of technitions who think we know how to fix the system.
   * We are proud to be able to support them.
 
 ### Who we work with
-Current partner:
-1. [Fair Fight Action](https://fairfight.com/)
+Current partners:
+1. [Fair Fight Action](https://fairfight.com
+1. [Campaign Legal Center](https://campaignlegal.org/)
+1. [Virginia Civic Engagement Table](https://engageva.org/)
+1. Madison, Wi
 
 ### Want to learn more?
 Visit our main repo to see our [equitable poll placement tool](https://github.com/Voting-Rights-Code/Equitable-Polling-Locations). Make a pull request. Make some comment. 
