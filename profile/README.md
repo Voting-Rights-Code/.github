@@ -5,9 +5,11 @@ A group of friends with highly techinical backgrounds who woke up one day thinki
 
 We are an all volunteer organization working on this project in the hours between earning our living, parenting, taking care of our pets and sleeping.
 
-* [Chad Rosenberg](https://www.linkedin.com/in/chad-rosenberg-b33358/) is a game designer, data engineer, CTO and project manager. He started his career managing academic code bases for labs that became startups.  
-* [Daphne Skipper](https://www.linkedin.com/in/daphne-skipper-b434a2275/) is an erstwhile Georgian and a mathematics professor at the US Naval Academy. The model behind our equitable poll placement tool is her work. 
 * [Susama Agarwala](https://www.linkedin.com/in/susama-agarwala-7117601/) is currently a data scientist who dislikes working with people who _just care sooo much_. Since she is not brave enough (read too financially conservative) to start her own buisiness, she donates code to people whose bravery she admires. In her spare time, she trains her dog, publishes mathematical physics papers and worries about how to raise her son to be proud of his heritage in the country he is inheriting.
+* [Ben Mainwaring](https://www.linkedin.com/in/mainwaringb/) is a statistician and data scientist with a background in political and social research. He's worked on progressive issue advocacy and electoral campaigns at YouGov and Priorities USA,  as well as working on monitoring & evaluation for international development. By day, he's working on consumer sentiment measurement and survey methodology at Meta. By night, he's working to make the world a slightly better and more just place, one slow grind at a time.
+* [Daphne Skipper](https://www.linkedin.com/in/daphne-skipper-b434a2275/) is an erstwhile Georgian and a mathematics professor at the US Naval Academy. The model behind our equitable poll placement tool is her work. 
+* [Chad Rosenberg](https://www.linkedin.com/in/chad-rosenberg-b33358/) is a game designer, data engineer, CTO and project manager. He started his career managing academic code bases for labs that became startups.  
+
 
 ### What we do
 
