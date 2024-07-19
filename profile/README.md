@@ -15,6 +15,8 @@ We are an all volunteer organization working on this project in the hours betwee
 
 Write code and run analysis for civil liberties advocacy organizations to help make the US voting system a little bit more fair. 
 
+Our main [equitable poll placement tool](https://github.com/Voting-Rights-Code/Equitable-Polling-Locations) measures demographic inequities for access to polls and reccommends new constellations (legally compliant with state and local laws) of locations to improve access. 
+
 **What we do NOT do**
 
 We are not a group of technitions who think we know how to fix the system.
